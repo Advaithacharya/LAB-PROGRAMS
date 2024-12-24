@@ -21,7 +21,7 @@ class Employee{
     }    
 }
 
-public class J2{
+public class L13{
    public static void main(String args[]){
        Employee emp1=new Employee(1,"Kuthyar",2000);
        emp1.getEmpDetails();
